@@ -1,0 +1,287 @@
+claim_id,claim_language,gold_label,claim_text,model,raw_response,verdict,confidence
+153,hindi,fake,"नसीरुद्दीन शाह की भी बिगड़ी तबियत , अस्पताल में भर्ती। हे ईश्वर अब कोई ऐसी खबर मत देना क्योंकि सहने की भी छमता होती है  ईश्वर आपको लंबी उम्र दे",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+153,hindi,fake,"नसीरुद्दीन शाह की भी बिगड़ी तबियत , अस्पताल में भर्ती। हे ईश्वर अब कोई ऐसी खबर मत देना क्योंकि सहने की भी छमता होती है  ईश्वर आपको लंबी उम्र दे",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+2550,hindi,fake,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+2550,hindi,fake,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+4258,hindi,fake,"महिंद्रा ने आलोचकों का ध्यान आकर्षित किया क्योंकि उनके ट्वीट में कहा गया था कि इसे बार-बार इस्तेमाल कर सकते हैं और धोने योग्य मास्क में ""वायरस को कम करने"" की क्षमता थी। ये मास्क लिविंगगार्ड नामक कंपनी",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+4258,hindi,fake,"महिंद्रा ने आलोचकों का ध्यान आकर्षित किया क्योंकि उनके ट्वीट में कहा गया था कि इसे बार-बार इस्तेमाल कर सकते हैं और धोने योग्य मास्क में ""वायरस को कम करने"" की क्षमता थी। ये मास्क लिविंगगार्ड नामक कंपनी",deepseek/deepseek-v4-flash,"REAL  
+8",REAL,8
+4888,hindi,fake,"आगरा में 48 घंटे में भर्ती हुए 28 कोरोना मरीजों की मृत्यु हो गई।
+
+यूपी सरकार के लिए कितनी शर्म की बात है कि इसी मॉडल का झूठा प्रचार करके सच दबाने की कोशिश की गई।
+
+सरकार की नो टेस्ट=नो कोरोना पॉलिसी पर",google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+4888,hindi,fake,"आगरा में 48 घंटे में भर्ती हुए 28 कोरोना मरीजों की मृत्यु हो गई।
+
+यूपी सरकार के लिए कितनी शर्म की बात है कि इसी मॉडल का झूठा प्रचार करके सच दबाने की कोशिश की गई।
+
+सरकार की नो टेस्ट=नो कोरोना पॉलिसी पर",deepseek/deepseek-v4-flash,"FAKE  
+10",FAKE,10
+123,hindi,fake,"बढ़िया ख़बर 
+
+यूपी सरकार ने कांग्रेस की तरफ़ से भेजी गई बसों को चलाने की इजाज़त दी। #शर्मनाक
+यह कोई रेल नहीं है #मोड़ी_टी यह कोई जाम नहीं है #उत्तरप्रदेश मे #प्रियंका_गाँधी जी ने 1000 बस तैयार कर रखी ",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+123,hindi,fake,"बढ़िया ख़बर 
+
+यूपी सरकार ने कांग्रेस की तरफ़ से भेजी गई बसों को चलाने की इजाज़त दी। #शर्मनाक
+यह कोई रेल नहीं है #मोड़ी_टी यह कोई जाम नहीं है #उत्तरप्रदेश मे #प्रियंका_गाँधी जी ने 1000 बस तैयार कर रखी ",deepseek/deepseek-v4-flash,"FAKE  
+9",FAKE,9
+4344,hindi,fake,संजय राऊत का आयुर्वेदिक अंडे पर ज्ञान।शिवसेना के ऐसे नेताओं की सोच ने ही आज पार्टी को निम्न स्तर पर पहुंचा दिया।,google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+4344,hindi,fake,संजय राऊत का आयुर्वेदिक अंडे पर ज्ञान।शिवसेना के ऐसे नेताओं की सोच ने ही आज पार्टी को निम्न स्तर पर पहुंचा दिया।,deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+1266,hindi,fake,"कांग्रेस की जीत को अब तक 24 घंटे भी नहीं हुए और नारे शुरू हो गए की, ""बाबरी मस्जिद लेके रहेंगे, पाकिस्तान ज़िंदाबाद
+
+",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+1266,hindi,fake,"कांग्रेस की जीत को अब तक 24 घंटे भी नहीं हुए और नारे शुरू हो गए की, ""बाबरी मस्जिद लेके रहेंगे, पाकिस्तान ज़िंदाबाद
+
+",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3700,hindi,fake,शाहरुख खान ने राम मंदिर निर्माण में 5 करोड़ रुपए दान दिए हैं।,google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+3700,hindi,fake,शाहरुख खान ने राम मंदिर निर्माण में 5 करोड़ रुपए दान दिए हैं।,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+298,hindi,fake,"भूख हड़ताल के दौरान तजिंदर सिंह बग्गा ने समोसे खाए हैं।
+
+भूख हड़ताल पर बैठे तजिंदर बग्गा ने नहीं खाया था खाना
+
+",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+298,hindi,fake,"भूख हड़ताल के दौरान तजिंदर सिंह बग्गा ने समोसे खाए हैं।
+
+भूख हड़ताल पर बैठे तजिंदर बग्गा ने नहीं खाया था खाना
+
+",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+5273,hindi,fake,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।",google/gemini-2.5-flash-lite,"UNCERTAIN
+8",UNCERTAIN,8
+5273,hindi,fake,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3364,hindi,fake,कराची में जिन्ना गार्डन इलाके में पाकिस्तान इंटरनेशनल एयरलाइंस की 8303 का क्रैश होने से पहले का आखिरी फोटो,google/gemini-2.5-flash-lite,"REAL
+9",REAL,9
+3364,hindi,fake,कराची में जिन्ना गार्डन इलाके में पाकिस्तान इंटरनेशनल एयरलाइंस की 8303 का क्रैश होने से पहले का आखिरी फोटो,deepseek/deepseek-v4-flash,"FAKE  
+10",FAKE,10
+372,hindi,fake,सरकार ने नई भर्तियों की प्रक्रिया पर रोक लगा दी है।,google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+372,hindi,fake,सरकार ने नई भर्तियों की प्रक्रिया पर रोक लगा दी है।,deepseek/deepseek-v4-flash,"UNCERTAIN
+5",UNCERTAIN,5
+5583,hindi,fake,"कमलनाथ के निजी सचिव के 9 करोड़ की चोरी से कांग्रेस का कोई लेना देना नहीं है ऐसी छोटी मोटी चोरी करना कांग्रेस की आदत नहीं है
+वो इतने दिन से पूछ रहे थे कि 'काला धन कहाँ है?' कमलनाथ के यहाँ छापा मारकर निक",google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+5583,hindi,fake,"कमलनाथ के निजी सचिव के 9 करोड़ की चोरी से कांग्रेस का कोई लेना देना नहीं है ऐसी छोटी मोटी चोरी करना कांग्रेस की आदत नहीं है
+वो इतने दिन से पूछ रहे थे कि 'काला धन कहाँ है?' कमलनाथ के यहाँ छापा मारकर निक",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+5212,hindi,fake,"13 जून, शनिवार से फेसबुक अपनी प्राइवेसी पॉलिसी में बदलाव जा रहा है। अगर यूजर्स इस लिखे हुए मैसेज को कॉपी करके अपनी वॉल पर पोस्ट नहीं करते हैं, तो उन्हें कानूनी मुश्किलों का सामना करना पड़ सकता है।",google/gemini-2.5-flash-lite,"FAKE
+10",FAKE,10
+5212,hindi,fake,"13 जून, शनिवार से फेसबुक अपनी प्राइवेसी पॉलिसी में बदलाव जा रहा है। अगर यूजर्स इस लिखे हुए मैसेज को कॉपी करके अपनी वॉल पर पोस्ट नहीं करते हैं, तो उन्हें कानूनी मुश्किलों का सामना करना पड़ सकता है।",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+1806,hindi,fake,"@Main_Amitabh @SanjayAzadSln @ArvindKejriwal ये दिल्ली जलाने वाले आतंकवादी है, इसको तो पागल कुत्ते की तरह दौड़ा दौड़ा कर पीटना चाहिए",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+1806,hindi,fake,"@Main_Amitabh @SanjayAzadSln @ArvindKejriwal ये दिल्ली जलाने वाले आतंकवादी है, इसको तो पागल कुत्ते की तरह दौड़ा दौड़ा कर पीटना चाहिए",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+4262,hindi,fake,"ये क्या हो गया सच्चा मुसलमान कभी ऐसा नही कर सकता तो इसका मतलब क्या समझा जाये शाहरुख खान सच्चे मुसलमान नही है ओ भी मात्र दो करोड़ रुपये के लिए ..!
+
+",google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+4262,hindi,fake,"ये क्या हो गया सच्चा मुसलमान कभी ऐसा नही कर सकता तो इसका मतलब क्या समझा जाये शाहरुख खान सच्चे मुसलमान नही है ओ भी मात्र दो करोड़ रुपये के लिए ..!
+
+",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+4394,hindi,fake,असम में एक व्यक्ति ने गाय खरीदी | कई रातें वह कुत्तों के भौकने की आवाज़ सुनता रहा | एक दिन उसने सीसीटीवी कैमरा लगवाया | वह यह देखकर हैरान था की रोज़ रात में एक तेंदुआ गाय के पास आकर बैठता है | उसने गाय ,google/gemini-2.5-flash-lite,"REAL
+6",REAL,6
+4394,hindi,fake,असम में एक व्यक्ति ने गाय खरीदी | कई रातें वह कुत्तों के भौकने की आवाज़ सुनता रहा | एक दिन उसने सीसीटीवी कैमरा लगवाया | वह यह देखकर हैरान था की रोज़ रात में एक तेंदुआ गाय के पास आकर बैठता है | उसने गाय ,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+466,hindi,fake,"5 अगस्त को दोपहर सवा 12 बजे प्रधानमंत्री श्री नरेन्द्र मोदी अयोध्या में भगवान श्रीराम के भव्य मंदिर के लिए भूमि पूजन अनुष्ठान करेंगे, इस गौरवमयी अवसर के लिए सज-धज के तैयार है पावन अयोध्या नगरी।।
+
+जय श",google/gemini-2.5-flash-lite,"REAL
+10",REAL,10
+466,hindi,fake,"5 अगस्त को दोपहर सवा 12 बजे प्रधानमंत्री श्री नरेन्द्र मोदी अयोध्या में भगवान श्रीराम के भव्य मंदिर के लिए भूमि पूजन अनुष्ठान करेंगे, इस गौरवमयी अवसर के लिए सज-धज के तैयार है पावन अयोध्या नगरी।।
+
+जय श",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3509,hindi,fake,"राहुल गाँधी की जीत के बाद पाकिस्तान के झंडे लहराए गए |
+
+",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+3509,hindi,fake,"राहुल गाँधी की जीत के बाद पाकिस्तान के झंडे लहराए गए |
+
+",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+2380,hindi,fake,गृह मंत्री अमित शाह की कोरोना रिपोर्ट अब नेगेटिव आई है। यानी वे अब पूरी तरह ठीक हो चुके हैं।,google/gemini-2.5-flash-lite,"REAL
+9",REAL,9
+2380,hindi,fake,गृह मंत्री अमित शाह की कोरोना रिपोर्ट अब नेगेटिव आई है। यानी वे अब पूरी तरह ठीक हो चुके हैं।,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+153,english,fake,"Naseeruddin Shah's health also deteriorated, admitted to hospital. Oh God, don't give any such news now because you have the capacity to bear it, may God give you a long life.",google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+153,english,fake,"Naseeruddin Shah's health also deteriorated, admitted to hospital. Oh God, don't give any such news now because you have the capacity to bear it, may God give you a long life.",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+2550,english,fake,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+2550,english,fake,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+4258,english,fake,"Mahindra attracted the attention of critics after its tweet said that the reusable and washable mask had the ability to ""reduce the virus"". These masks are being manufactured by a company called Livin",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+4258,english,fake,"Mahindra attracted the attention of critics after its tweet said that the reusable and washable mask had the ability to ""reduce the virus"". These masks are being manufactured by a company called Livin",deepseek/deepseek-v4-flash,"REAL  
+9",REAL,9
+4888,english,fake,"28 Corona patients admitted in Agra died in 48 hours.
+
+What a shame for the UP government that an attempt was made to suppress the truth by falsely propagating this model.
+
+Questions were raised on th",google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+4888,english,fake,"28 Corona patients admitted in Agra died in 48 hours.
+
+What a shame for the UP government that an attempt was made to suppress the truth by falsely propagating this model.
+
+Questions were raised on th",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+123,english,fake,"great news 
+
+The UP government gave permission to run the buses sent by Congress. #shameful
+This is not a train #Modi_T This is not a jam #Priyanka_Gandhi ji has prepared 1000 buses in Uttar Pradesh t",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+123,english,fake,"great news 
+
+The UP government gave permission to run the buses sent by Congress. #shameful
+This is not a train #Modi_T This is not a jam #Priyanka_Gandhi ji has prepared 1000 buses in Uttar Pradesh t",deepseek/deepseek-v4-flash,"FAKE
+9",FAKE,9
+4344,english,fake,Sanjay Raut's knowledge on Ayurvedic eggs. The thinking of such Shiv Sena leaders has brought the party to a low level today.,google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+4344,english,fake,Sanjay Raut's knowledge on Ayurvedic eggs. The thinking of such Shiv Sena leaders has brought the party to a low level today.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+1266,english,fake,"Not even 24 hours have passed since Congress's victory and slogans have started like, ""We will take Babri Masjid, Pakistan Zindabad.""",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+1266,english,fake,"Not even 24 hours have passed since Congress's victory and slogans have started like, ""We will take Babri Masjid, Pakistan Zindabad.""",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3700,english,fake,Shahrukh Khan has donated Rs 5 crore for the construction of Ram temple.,google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+3700,english,fake,Shahrukh Khan has donated Rs 5 crore for the construction of Ram temple.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+298,english,fake,"Tajinder Singh Bagga ate samosas during his hunger strike.
+
+Tajinder Bagga, who was on hunger strike, had not eaten food.",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+298,english,fake,"Tajinder Singh Bagga ate samosas during his hunger strike.
+
+Tajinder Bagga, who was on hunger strike, had not eaten food.",deepseek/deepseek-v4-flash,"FAKE  
+10",FAKE,10
+5273,english,fake,"Whuan Market. China, the origin of #coronavirus.",google/gemini-2.5-flash-lite,"UNCERTAIN
+8",UNCERTAIN,8
+5273,english,fake,"Whuan Market. China, the origin of #coronavirus.",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3364,english,fake,The last photo taken before the crash of Pakistan International Airlines flight 8303 in Jinnah Garden area in Karachi.,google/gemini-2.5-flash-lite,"REAL
+9",REAL,9
+3364,english,fake,The last photo taken before the crash of Pakistan International Airlines flight 8303 in Jinnah Garden area in Karachi.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+372,english,fake,The government has stopped the process of new recruitments.,google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+372,english,fake,The government has stopped the process of new recruitments.,deepseek/deepseek-v4-flash,"UNCERTAIN  
+2",UNCERTAIN,2
+5583,english,fake,"Congress has nothing to do with the theft of Rs 9 crore by Kamal Nath's personal secretary. It is not the habit of Congress to do such small thefts.
+For so long they were asking 'Where is the black mo",google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+5583,english,fake,"Congress has nothing to do with the theft of Rs 9 crore by Kamal Nath's personal secretary. It is not the habit of Congress to do such small thefts.
+For so long they were asking 'Where is the black mo",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+5212,english,fake,"Facebook is going to change its privacy policy from Saturday, June 13. If users do not copy this written message and post it on their wall, they may have to face legal difficulties.",google/gemini-2.5-flash-lite,"FAKE
+10",FAKE,10
+5212,english,fake,"Facebook is going to change its privacy policy from Saturday, June 13. If users do not copy this written message and post it on their wall, they may have to face legal difficulties.",deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+1806,english,fake,"@Main_Amitabh @SanjayAzadSln @ArvindKejriwal He is the terrorist who burnt Delhi, he should be chased and beaten like a mad dog.",google/gemini-2.5-flash-lite,"UNCERTAIN
+3",UNCERTAIN,3
+1806,english,fake,"@Main_Amitabh @SanjayAzadSln @ArvindKejriwal He is the terrorist who burnt Delhi, he should be chased and beaten like a mad dog.",deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+4262,english,fake,"What is this, a true Muslim can never do this, then what should be meant by this, Shahrukh Khan is not a true Muslim, that too just for two crore rupees..!",google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+4262,english,fake,"What is this, a true Muslim can never do this, then what should be meant by this, Shahrukh Khan is not a true Muslim, that too just for two crore rupees..!",deepseek/deepseek-v4-flash,"FAKE
+9",FAKE,9
+4394,english,fake,A person bought a cow in Assam. For many nights he kept hearing the sound of dogs barking. One day he installed CCTV cameras. He was surprised to see that every night a leopard comes and sits near the,google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+4394,english,fake,A person bought a cow in Assam. For many nights he kept hearing the sound of dogs barking. One day he installed CCTV cameras. He was surprised to see that every night a leopard comes and sits near the,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+466,english,fake,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o",google/gemini-2.5-flash-lite,"FAKE
+10",FAKE,10
+466,english,fake,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3509,english,fake,Pakistan flags were waved after Rahul Gandhi's victory.,google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+3509,english,fake,Pakistan flags were waved after Rahul Gandhi's victory.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+2380,english,fake,Home Minister Amit Shah's Corona report has now come negative. That means he has now completely recovered.,google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+2380,english,fake,Home Minister Amit Shah's Corona report has now come negative. That means he has now completely recovered.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+153,estonian,fake,"Samuti halvenes Naseeruddin Shahi tervis, ta viidi haiglasse. Oh jumal, ära anna praegu selliseid uudiseid, sest sul on võime seda taluda, andku jumal sulle pikka iga.",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+153,estonian,fake,"Samuti halvenes Naseeruddin Shahi tervis, ta viidi haiglasse. Oh jumal, ära anna praegu selliseid uudiseid, sest sul on võime seda taluda, andku jumal sulle pikka iga.",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+2550,estonian,fake,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+2550,estonian,fake,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+4258,estonian,fake,"Mahindra äratas kriitikute tähelepanu pärast seda, kui selle säuts ütles, et korduvkasutataval ja pestaval maskil on võime ""viirust vähendada"". Neid maske toodab ettevõte nimega LivingGuard, mille juh",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+4258,estonian,fake,"Mahindra äratas kriitikute tähelepanu pärast seda, kui selle säuts ütles, et korduvkasutataval ja pestaval maskil on võime ""viirust vähendada"". Neid maske toodab ettevõte nimega LivingGuard, mille juh",deepseek/deepseek-v4-flash,"FAKE
+9",FAKE,9
+4888,estonian,fake,"28 Agrasse vastu võetud koroonahaiget suri 48 tunni jooksul.
+
+Milline häbi UP valitsusele, et seda mudelit vale propageerides püüti tõde maha suruda.
+
+Esitati küsimusi valitsuse no test=no corona poli",google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+4888,estonian,fake,"28 Agrasse vastu võetud koroonahaiget suri 48 tunni jooksul.
+
+Milline häbi UP valitsusele, et seda mudelit vale propageerides püüti tõde maha suruda.
+
+Esitati küsimusi valitsuse no test=no corona poli",deepseek/deepseek-v4-flash,"UNCERTAIN
+3",UNCERTAIN,3
+123,estonian,fake,"suurepärane uudis 
+
+UP valitsus andis loa Kongressi saadetud busside käitamiseks. #häbiväärne
+See ei ole rong #Modi_T See ei ole moos #Priyanka_Gandhi ji on Uttar Pradeshis valmistanud 1000 bussi, et ",google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+123,estonian,fake,"suurepärane uudis 
+
+UP valitsus andis loa Kongressi saadetud busside käitamiseks. #häbiväärne
+See ei ole rong #Modi_T See ei ole moos #Priyanka_Gandhi ji on Uttar Pradeshis valmistanud 1000 bussi, et ",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+4344,estonian,fake,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+4344,estonian,fake,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+1266,estonian,fake,"Kongressi võidust pole möödunud isegi 24 tundi ja loosungid on alanud: ""Me võtame Babri Masjidi, Pakistan Zindabadi.""",google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+1266,estonian,fake,"Kongressi võidust pole möödunud isegi 24 tundi ja loosungid on alanud: ""Me võtame Babri Masjidi, Pakistan Zindabadi.""",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3700,estonian,fake,Shahrukh Khan on annetanud Rami templi ehitamiseks 5 miljonit Rs.,google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+3700,estonian,fake,Shahrukh Khan on annetanud Rami templi ehitamiseks 5 miljonit Rs.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+298,estonian,fake,"Tajinder Singh Bagga sõi oma näljastreigi ajal samosasid.
+
+Näljastreiki pidanud Tajinder Bagga ei olnud toitu söönud.",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+298,estonian,fake,"Tajinder Singh Bagga sõi oma näljastreigi ajal samosasid.
+
+Näljastreiki pidanud Tajinder Bagga ei olnud toitu söönud.",deepseek/deepseek-v4-flash,"FAKE  
+10",FAKE,10
+5273,estonian,fake,"Whuani turg. Hiina, #koronaviiruse päritolu.",google/gemini-2.5-flash-lite,"FAKE
+10",FAKE,10
+5273,estonian,fake,"Whuani turg. Hiina, #koronaviiruse päritolu.",deepseek/deepseek-v4-flash,"UNCERTAIN  
+2",UNCERTAIN,2
+3364,estonian,fake,"Viimane foto, mis on tehtud enne Pakistan International Airlinesi lennu 8303 allakukkumist Jinnah Gardeni piirkonnas Karachis.",google/gemini-2.5-flash-lite,"REAL
+8",REAL,8
+3364,estonian,fake,"Viimane foto, mis on tehtud enne Pakistan International Airlinesi lennu 8303 allakukkumist Jinnah Gardeni piirkonnas Karachis.",deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+372,estonian,fake,Valitsus on peatanud uute töötajate värbamise.,google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+372,estonian,fake,Valitsus on peatanud uute töötajate värbamise.,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+5583,estonian,fake,"Kongressil pole midagi pistmist Kamal Nathi isikliku sekretäri 9 miljonilise Rs vargusega. Kongressil pole kombeks nii väikseid vargusi teha.
+Nii kaua nad küsisid: ""Kus on must raha?"" Kui Kamal Nathi ",google/gemini-2.5-flash-lite,"FAKE
+8",FAKE,8
+5583,estonian,fake,"Kongressil pole midagi pistmist Kamal Nathi isikliku sekretäri 9 miljonilise Rs vargusega. Kongressil pole kombeks nii väikseid vargusi teha.
+Nii kaua nad küsisid: ""Kus on must raha?"" Kui Kamal Nathi ",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+5212,estonian,fake,"Facebook muudab alates laupäevast, 13. juunist oma privaatsuspoliitikat. Kui kasutajad seda kirjalikku teadet ei kopeeri ja oma seinale ei postita, võivad nad silmitsi seista juriidiliste raskustega.",google/gemini-2.5-flash-lite,"FAKE
+10",FAKE,10
+5212,estonian,fake,"Facebook muudab alates laupäevast, 13. juunist oma privaatsuspoliitikat. Kui kasutajad seda kirjalikku teadet ei kopeeri ja oma seinale ei postita, võivad nad silmitsi seista juriidiliste raskustega.",deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+1806,estonian,fake,"@Main_Amitabh @SanjayAzadSln @ArvindKejriwal Ta on terrorist, kes põletas Delhi, teda tuleks jälitada ja peksa nagu hullu koera.",google/gemini-2.5-flash-lite,"FAKE
+10",FAKE,10
+1806,estonian,fake,"@Main_Amitabh @SanjayAzadSln @ArvindKejriwal Ta on terrorist, kes põletas Delhi, teda tuleks jälitada ja peksa nagu hullu koera.",deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+4262,estonian,fake,"Mis see on, tõeline moslem ei saa seda kunagi teha, siis mida peaks selle all silmas pidama, Shahrukh Khan ei ole tõeline moslem, see ka ainult kahe krooni eest..!",google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+4262,estonian,fake,"Mis see on, tõeline moslem ei saa seda kunagi teha, siis mida peaks selle all silmas pidama, Shahrukh Khan ei ole tõeline moslem, see ka ainult kahe krooni eest..!",deepseek/deepseek-v4-flash,"UNCERTAIN
+2",UNCERTAIN,2
+4394,estonian,fake,"Inimene ostis Assamis lehma. Mitu ööd kuulis ta pidevalt koerte haukumist. Ühel päeval paigaldas ta CCTV kaamerad. Ta oli üllatunud, nähes, et igal õhtul tuleb leopard ja istub lehma lähedale. Ta küsi",google/gemini-2.5-flash-lite,"UNCERTAIN
+5",UNCERTAIN,5
+4394,estonian,fake,"Inimene ostis Assamis lehma. Mitu ööd kuulis ta pidevalt koerte haukumist. Ühel päeval paigaldas ta CCTV kaamerad. Ta oli üllatunud, nähes, et igal õhtul tuleb leopard ja istub lehma lähedale. Ta küsi",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+466,estonian,fake,5. augustil kell 12.15 viib peaminister Shri Narendra Modi läbi Bhoomi Pujani rituaali Lord Shri Rami suurejoonelise templi jaoks Ayodhyas. Püha linn Ayodhya on selleks kuulsusrikkaks sündmuseks valmi,google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+466,estonian,fake,5. augustil kell 12.15 viib peaminister Shri Narendra Modi läbi Bhoomi Pujani rituaali Lord Shri Rami suurejoonelise templi jaoks Ayodhyas. Püha linn Ayodhya on selleks kuulsusrikkaks sündmuseks valmi,deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,
+3509,estonian,fake,Pakistani lipud lehvitati pärast Rahul Gandhi võitu.,google/gemini-2.5-flash-lite,"FAKE
+9",FAKE,9
+3509,estonian,fake,Pakistani lipud lehvitati pärast Rahul Gandhi võitu.,deepseek/deepseek-v4-flash,"FAKE
+10",FAKE,10
+2380,estonian,fake,"Home Minister Amit Shah's Corona report has now come negative. See tähendab, et ta on nüüd täielikult taastunud.",google/gemini-2.5-flash-lite,"REAL
+9",REAL,9
+2380,estonian,fake,"Home Minister Amit Shah's Corona report has now come negative. See tähendab, et ta on nüüd täielikult taastunud.",deepseek/deepseek-v4-flash,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE,

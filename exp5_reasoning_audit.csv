@@ -1,0 +1,167 @@
+claim_id,claim_language,model,original_verdict,claim_text,raw_response,reasoning_category,reasoning_reason
+2550,hindi,google/gemini-2.5-flash-lite,FAKE,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+","Here's a thinking process to fact-check the claim:
+
+1.  **What is the claim asserting?**
+    *   There's a fake Twitter account named ""रिपब्लिक पोल"" (Republic Poll).
+    *   This account is facing anger from netizens due to controversial polls.
+    *   Many Twitter users, including journalists, are mistaking this fake account for the official account of a channel (presumably Republic TV, given the name).
+
+2.  **What do you know about this topic?**
+    *   **""रिपब्लिक"" (Republic):** This strongly",UNPARSEABLE,
+298,hindi,deepseek/deepseek-v4-flash,FAKE,"भूख हड़ताल के दौरान तजिंदर सिंह बग्गा ने समोसे खाए हैं।
+
+भूख हड़ताल पर बैठे तजिंदर बग्गा ने नहीं खाया था खाना
+
+","1. **What is the claim asserting?**  
+   The claim states that Tajinder Singh Bagga ate samosas during a hunger strike. The second sentence (in Hindi) contradicts this by saying he did not eat food during the hunger strike. So the claim is essentially asserting that he broke his hunger strike by eating samosas.
+
+2. **What do you know about this topic?**  
+   Tajinder Singh Bagga is an Indian politician and activist who has conducted hunger strikes as a form of protest. In past instances, there h",KNOWLEDGE_GAP,"The model's response trails off, indicating it lacks the specific factual knowledge to confirm or deny whether Tajinder Singh Bagga ate samosas during a hunger strike."
+5273,hindi,deepseek/deepseek-v4-flash,UNCERTAIN,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।","The claim asserts that the Wuhan market in China is the definitive origin of the coronavirus (COVID-19). While early cases were linked to the Huanan Seafood Wholesale Market, scientific investigations have not conclusively determined the virus's origin. The WHO and multiple studies note that the market may have amplified spread but is not necessarily the source. The claim omits this uncertainty and presents a simplified, unverified assertion.
+
+VERDICT: UNCERTAIN",CORRECT_REASONING,The model correctly identifies that the claim oversimplifies the scientific understanding of the virus's origin and accurately points out the nuance that the Wuhan market may have amplified spread but is not definitively the source.
+3364,hindi,deepseek/deepseek-v4-flash,FAKE,कराची में जिन्ना गार्डन इलाके में पाकिस्तान इंटरनेशनल एयरलाइंस की 8303 का क्रैश होने से पहले का आखिरी फोटो,"**Step-by-step assessment:**
+
+1. **What the claim asserts:**  
+   The claim states that a specific photograph shows the final moments before the crash of Pakistan International Airlines (PIA) Flight 8303 in the ""Jinnah Garden"" area of Karachi. It labels the image as the last photo taken prior to the accident.
+
+2. **What is known about this topic:**  
+   - PIA Flight 8303 (an Airbus A320) crashed on May 22, 2020, in a residential area of Karachi, near Model Colony, while attempting to land at Jin",CORRECT_REASONING,The model correctly identifies the core assertion of the claim and begins to provide relevant factual information about the event.
+3509,hindi,google/gemini-2.5-flash-lite,FAKE,"राहुल गाँधी की जीत के बाद पाकिस्तान के झंडे लहराए गए |
+
+","Here's a step-by-step assessment of the claim:
+
+1.  **What is the claim asserting?**
+    The claim asserts that after Rahul Gandhi's victory (implying a specific election win), Pakistani flags were waved.
+
+2.  **What do you know about this topic?**
+    *   Rahul Gandhi is a prominent Indian politician and a leader of the Indian National Congress.
+    *   India and Pakistan have a complex and often tense relationship.
+    *   The waving of Pakistani flags in India is a highly sensitive issue and ",KNOWLEDGE_GAP,The model correctly identifies the sensitivity of the issue but does not provide specific factual information to confirm or deny the claim.
+3509,hindi,deepseek/deepseek-v4-flash,FAKE,"राहुल गाँधी की जीत के बाद पाकिस्तान के झंडे लहराए गए |
+
+","1. **What is the claim asserting?**  
+   The claim states that after Rahul Gandhi’s (electoral) victory, flags of Pakistan were waved. This implies that supporters or individuals celebrated his win by displaying Pakistani flags, which would suggest a link between Rahul Gandhi and pro-Pakistan sentiment.
+
+2. **What do you know about this topic?**  
+   Rahul Gandhi is an Indian politician and a prominent leader of the Indian National Congress. His electoral victories or political events are typica",KNOWLEDGE_GAP,"The model stops mid-sentence when describing its knowledge about Rahul Gandhi, indicating it lacks the necessary information to fully assess the claim."
+153,english,deepseek/deepseek-v4-flash,FAKE,"Naseeruddin Shah's health also deteriorated, admitted to hospital. Oh God, don't give any such news now because you have the capacity to bear it, may God give you a long life.","1. **What is the claim asserting?**  
+   The claim states that actor Naseeruddin Shah’s health has deteriorated and that he has been admitted to a hospital. It also includes an emotional plea and a prayer for his long life.
+
+2. **What do you know about this topic?**  
+   As of my last knowledge update (October 2023), there is no verified news or credible report about Naseeruddin Shah being hospitalized due to a health deterioration. He is a well-known Indian actor, and any such serious health ev",CORRECT_REASONING,The model correctly identifies that there is no verified information to support the claim about Naseeruddin Shah's health deterioration and hospitalization.
+2550,english,google/gemini-2.5-flash-lite,FAKE,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ","Here's a step-by-step assessment of the claim:
+
+1.  **What is the claim asserting?**
+    The claim asserts two main points:
+    *   There is a fake Twitter account named ""Republic Poll.""
+    *   This fake account is causing controversy due to a poll it posted.
+    *   Many Twitter users, including journalists, mistakenly believe this fake account is the official account of ""Republic"" (presumably a news channel).
+
+2.  **What do you know about this topic?**
+    *   **""Republic"" as a News Channel:*",UNPARSEABLE,
+2550,english,deepseek/deepseek-v4-flash,FAKE,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ","Let’s break this down step by step.
+
+**1. What is the claim asserting?**  
+The claim says there is a fake Twitter account called “Republic Poll” that is upsetting netizens with controversial polls, and that many Twitter users—including journalists—mistake it for the official account of the news channel Republic (presumably Republic TV or Republic Bharat).
+
+**2. What do you know about this topic?**  
+- Republic TV is an Indian news channel. Its official Twitter handle is @republic.  
+- There have",KNOWLEDGE_GAP,"The model stops mid-sentence, indicating it lacks the complete factual knowledge to fully assess the claim."
+123,english,deepseek/deepseek-v4-flash,FAKE,"great news 
+
+The UP government gave permission to run the buses sent by Congress. #shameful
+This is not a train #Modi_T This is not a jam #Priyanka_Gandhi ji has prepared 1000 buses in Uttar Pradesh t","Let’s break this down step by step.
+
+**1. What is the claim asserting?**  
+The claim says that the Uttar Pradesh (UP) government (led by Yogi Adityanath) initially did not give permission for buses arranged by Congress leader Priyanka Gandhi to transport migrant laborers home, but later gave permission. It also uses hashtags like #shameful and #Modi_T to criticize the government, implying deliberate obstruction.
+
+**2. What do you know about this topic?**  
+During the COVID-19 lockdown in 2020, t",KNOWLEDGE_GAP,The model's response is cut off before it can provide any factual information or analysis to assess the claim.
+1266,english,deepseek/deepseek-v4-flash,FAKE,"Not even 24 hours have passed since Congress's victory and slogans have started like, ""We will take Babri Masjid, Pakistan Zindabad.""","The claim asserts that immediately following a victory by the Indian National Congress (Congress party), slogans such as ""We will take Babri Masjid, Pakistan Zindabad"" have emerged, implying Congress supporters or allies are promoting pro-Pakistan sentiments and the rebuilding of the Babri Masjid site.
+
+There is no verifiable, recent news or credible evidence of such slogans being chanted after any Congress electoral victory. The Babri Masjid demolition in 1992 remains a highly sensitive issue i",CORRECT_REASONING,The model correctly identifies the lack of verifiable evidence for the claim and points to the sensitivity of the Babri Masjid issue.
+372,english,deepseek/deepseek-v4-flash,UNCERTAIN,The government has stopped the process of new recruitments.,"The claim is vague and lacks crucial context, such as which government is being referred to, what type of recruitments (e.g., civil service, military, public sector), and the timeframe. Without these specifics, the assertion cannot be verified or falsified. There is no inherent red flag of exaggeration or known falsehood, but the missing context makes it impossible to assess definitively.
+
+VERDICT: UNCERTAIN",EXCESSIVE_HEDGING,"The model correctly identifies the vagueness of the claim but refuses to commit to a verdict, stating it's impossible to assess definitively due to missing context, even though the lack of specificity itself is a reason to be skeptical of the claim's veracity."
+5583,english,deepseek/deepseek-v4-flash,FAKE,"Congress has nothing to do with the theft of Rs 9 crore by Kamal Nath's personal secretary. It is not the habit of Congress to do such small thefts.
+For so long they were asking 'Where is the black mo","Let’s break this down step by step.
+
+**1. What is the claim asserting?**  
+The claim says that the Congress party is not responsible for the alleged theft of Rs 9 crore by Kamal Nath’s personal secretary. It also asserts that Congress does not engage in “small thefts,” implying they only commit large-scale corruption. It further references the party’s past “Where is the black money?” slogan and suggests Kamal Nath was raided and fired, and that he felt bad about it.
+
+**2. What do you know about ",KNOWLEDGE_GAP,"The model does not possess the specific factual knowledge about the alleged theft, Kamal Nath's role, or the ""black money"" slogan to properly assess the claim."
+4262,english,deepseek/deepseek-v4-flash,FAKE,"What is this, a true Muslim can never do this, then what should be meant by this, Shahrukh Khan is not a true Muslim, that too just for two crore rupees..!","The claim makes a subjective and unverified assertion about Shah Rukh Khan's religious identity based on an unspecified action involving a payment of two crore rupees. It implies that a ""true Muslim"" would never do that action, and therefore Khan is not a true Muslim.  
+
+- The claim lacks specific context: no action or event is described, making it impossible to verify the factual basis.  
+- Shah Rukh Khan is a publicly known Muslim, and his personal faith is not a matter of objective fact-check",CORRECT_REASONING,"The model correctly identifies that the claim is subjective, lacks specific verifiable details, and makes an unprovable assertion about an individual's religious identity."
+466,english,deepseek/deepseek-v4-flash,REAL,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o","1. **What is the claim asserting?**  
+   The claim states that on August 5, at 12:15 PM, Prime Minister Narendra Modi performed the Bhoomi Pujan (groundbreaking ceremony) for the Ram Temple in Ayodhya, and that the city was ready for the occasion.
+
+2. **What do you know about this topic?**  
+   The Bhoomi Pujan for the Ram Temple in Ayodhya did indeed take place on August 5, 2020. Prime Minister Modi performed the ceremony at approximately 12:15 PM IST. The event was widely covered by news media",CORRECT_REASONING,"The model accurately identifies the key elements of the claim and correctly states its knowledge about the event, confirming its factual basis."
+153,estonian,deepseek/deepseek-v4-flash,FAKE,"Samuti halvenes Naseeruddin Shahi tervis, ta viidi haiglasse. Oh jumal, ära anna praegu selliseid uudiseid, sest sul on võime seda taluda, andku jumal sulle pikka iga.","The claim asserts that Naseeruddin Shah’s health deteriorated and he was hospitalized, presented as a recent event with emotional urgency. Based on available knowledge, Naseeruddin Shah, a prominent Indian actor, has had minor health incidents in the past (e.g., a hospitalization for a muscle spasm in early 2023), but no credible reports indicate a recent serious worsening of his condition. The dramatic language (“Oh jumal,” “ära anna praegu selliseid uudiseid”) and lack of specific context or v",CORRECT_REASONING,"The model correctly identifies that while the actor has had past health issues, there are no credible reports of a recent serious decline in his health, thus pointing out the likely falsity of the claim."
+2550,estonian,google/gemini-2.5-flash-lite,FAKE,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.","Here's a step-by-step assessment of the claim:
+
+1.  **What is the claim asserting?**
+    The claim asserts two main points:
+    *   A Twitter account named ""Republic Poll"" is facing backlash from netizens due to a controversial poll.
+    *   Many Twitter users, including journalists, believe this ""Republic Poll"" account is the official account of ""Võlts"" (which seems to be a misspelling or a reference to a specific entity, likely a news outlet or organization).
+
+2.  **What do you know about this",KNOWLEDGE_GAP,"The model explicitly states it lacks knowledge about ""Võlts"" and its potential connection to the ""Republic Poll"" Twitter account, preventing it from assessing the claim's validity."
+2550,estonian,deepseek/deepseek-v4-flash,FAKE,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.","Let’s assess the claim step by step.
+
+1. **What is the claim asserting?**  
+   The claim says that a fake Twitter account named “Republic Poll” is attracting online backlash due to a controversial poll, and that many Twitter users, including journalists, mistake it for an official account of a channel (presumably a news or media channel).
+
+2. **What do you know about this topic?**  
+   - The name “Republic Poll” suggests it could be imitating the Indian news channel *Republic TV* or a similar “R",KNOWLEDGE_GAP,"The model correctly identifies the claim but lacks specific knowledge about the ""Republic Poll"" Twitter account and its potential connection to ""Republic TV"" to fully assess its authenticity and the controversy."
+4888,estonian,deepseek/deepseek-v4-flash,FAKE,"28 Agrasse vastu võetud koroonahaiget suri 48 tunni jooksul.
+
+Milline häbi UP valitsusele, et seda mudelit vale propageerides püüti tõde maha suruda.
+
+Esitati küsimusi valitsuse no test=no corona poli","The claim asserts that 28 COVID-19 patients admitted to a facility in Agra died within a 48-hour period, and it accuses the Uttar Pradesh (UP) government of promoting a false narrative and implementing a ""no test, no corona"" policy to suppress the truth. The claim is made in a critical tone without providing specific sources or dates.
+
+During the COVID-19 pandemic, particularly the second wave in India in April–May 2021, there were reports of oxygen shortages and high mortality in hospitals, inc",KNOWLEDGE_GAP,The model acknowledges reports of oxygen shortages and high mortality during the pandemic but does not provide specific information to verify or refute the claim about 28 deaths in Agra within 48 hours.
+4344,estonian,deepseek/deepseek-v4-flash,UNCERTAIN,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,"The claim asserts that Sanjay Raut, a Shiv Sena leader, has specific knowledge or has made statements about ""Ayurveda eggs,"" and that this kind of thinking among Shiv Sena leaders has caused the party's current decline. The first part is a factual assertion about Raut's expertise or claims, while the second part is an opinion blaming the party's low state on such thinking.
+
+I am not aware of any verified statement by Sanjay Raut regarding Ayurveda and eggs. While Indian politicians sometimes mak",KNOWLEDGE_GAP,The model explicitly states it is not aware of verified information to assess the claim's factual assertion.
+1266,estonian,deepseek/deepseek-v4-flash,FAKE,"Kongressi võidust pole möödunud isegi 24 tundi ja loosungid on alanud: ""Me võtame Babri Masjidi, Pakistan Zindabadi.""","The claim asserts that immediately after a recent Congress party victory (likely in India), slogans calling for the recapture of the Babri Masjid and praising Pakistan have emerged. However, no such recent Congress victory at the national or major state level is known, and the combination of a Congress win with pro-Pakistan slogans is highly implausible given the party's secular stance. The claim lacks specific details and appears designed to provoke, with no credible evidence supporting it.
+
+VE",CORRECT_REASONING,The model correctly identifies the implausibility of the claim by noting the lack of a recent Congress victory and the incongruity of the slogans with the party's stance.
+3700,estonian,deepseek/deepseek-v4-flash,FAKE,Shahrukh Khan on annetanud Rami templi ehitamiseks 5 miljonit Rs.,"The claim asserts that Bollywood actor Shahrukh Khan donated 5 million Indian rupees (approximately ₹50 lakh) toward the construction of the Ram temple in Ayodhya.  
+
+Assessing the claim:  
+1. There is no credible evidence or official confirmation from Shahrukh Khan, his representatives, or the Shri Ram Janmabhoomi Teerth Kshetra trust (the body overseeing the temple construction) that such a donation was made.  
+2. In fact, multiple fact-checking outlets and news reports have previously address",CORRECT_REASONING,The model correctly identifies the lack of credible evidence and mentions previous fact-checking efforts to assess the claim.
+298,estonian,google/gemini-2.5-flash-lite,FAKE,"Tajinder Singh Bagga sõi oma näljastreigi ajal samosasid.
+
+Näljastreiki pidanud Tajinder Bagga ei olnud toitu söönud.","Here's a step-by-step assessment of the claim:
+
+1.  **What is the claim asserting?**
+    The claim asserts that Tajinder Singh Bagga ate samosas *during* his hunger strike.
+
+2.  **What do you know about this topic?**
+    The second sentence provided states: ""Näljastreiki pidanud Tajinder Bagga ei olnud toitu söönud."" This translates to: ""Tajinder Bagga, who was on a hunger strike, had not eaten food."" This directly contradicts the first claim.
+
+3.  **Are there red flags (exaggeration, missing co",CORRECT_REASONING,"The model correctly identifies that the provided supporting sentence directly contradicts the claim, thus demonstrating a correct understanding of the information presented."
+298,estonian,deepseek/deepseek-v4-flash,REAL,"Tajinder Singh Bagga sõi oma näljastreigi ajal samosasid.
+
+Näljastreiki pidanud Tajinder Bagga ei olnud toitu söönud.","The claim asserts that Tajinder Singh Bagga ate samosas during his hunger strike, which would contradict the idea of a strict fast. Based on publicly available information, a video surfaced in February 2022 showing Bagga eating samosas while he was on a hunger strike. Bagga later clarified that his protest was a ""symbolic"" or ""relay"" hunger strike, but the footage confirms he consumed food during that period. The counter statement that he did not eat food is inconsistent with the evidence. No re",CORRECT_REASONING,"The model correctly identifies that the claim is problematic because it contradicts the definition of a hunger strike, and it provides evidence to support this assessment."
+5583,estonian,deepseek/deepseek-v4-flash,FAKE,"Kongressil pole midagi pistmist Kamal Nathi isikliku sekretäri 9 miljonilise Rs vargusega. Kongressil pole kombeks nii väikseid vargusi teha.
+Nii kaua nad küsisid: ""Kus on must raha?"" Kui Kamal Nathi ","Let’s break this down step by step.
+
+1. **What is the claim asserting?**  
+   The claim says that the Congress party has nothing to do with a theft of 9 million rupees involving Kamal Nath’s personal secretary. It adds that Congress does not commit such small thefts, and that when Kamal Nath was caught and dismissed, he felt bad. The tone is sarcastic and defensive, implying that the party is being unfairly blamed for a minor crime.
+
+2. **What do you know about this topic?**  
+   Kamal Nath is a",KNOWLEDGE_GAP,"The model stops mid-sentence when asked what it knows about Kamal Nath, indicating a lack of factual knowledge to assess the claim."
+2380,estonian,deepseek/deepseek-v4-flash,UNCERTAIN,"Home Minister Amit Shah's Corona report has now come negative. See tähendab, et ta on nüüd täielikult taastunud.","Let’s assess the claim step by step.
+
+**1. What is the claim asserting?**  
+The claim says that Home Minister Amit Shah’s COVID-19 test result has turned negative, and it interprets this as meaning he is now fully recovered.
+
+**2. What do you know about this topic?**  
+Amit Shah tested positive for COVID-19 in August 2020 and was hospitalized. He later tested negative and was discharged. However, the claim does not specify a date. If this is a recent claim (e.g., 2024 or 2025), there is no widel",KNOWLEDGE_GAP,The model correctly identifies the ambiguity of the claim regarding the date but lacks the ability to access or verify current information to definitively assess its truthfulness.

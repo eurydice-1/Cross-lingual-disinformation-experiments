@@ -1,0 +1,89 @@
+claim_id,claim_language,gold_label,claim_text,wiki_context,model,condition,raw_response,verdict
+372,hindi,fake,सरकार ने नई भर्तियों की प्रक्रिया पर रोक लगा दी है।,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+372,hindi,fake,सरकार ने नई भर्तियों की प्रक्रिया पर रोक लगा दी है।,No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+372,hindi,fake,सरकार ने नई भर्तियों की प्रक्रिया पर रोक लगा दी है।,No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+372,hindi,fake,सरकार ने नई भर्तियों की प्रक्रिया पर रोक लगा दी है।,No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+372,english,fake,The government has stopped the process of new recruitments.,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+372,english,fake,The government has stopped the process of new recruitments.,No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+372,english,fake,The government has stopped the process of new recruitments.,No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+372,english,fake,The government has stopped the process of new recruitments.,No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+372,estonian,fake,Valitsus on peatanud uute töötajate värbamise.,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+372,estonian,fake,Valitsus on peatanud uute töötajate värbamise.,No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+372,estonian,fake,Valitsus on peatanud uute töötajate värbamise.,No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+372,estonian,fake,Valitsus on peatanud uute töötajate värbamise.,No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+466,hindi,fake,"5 अगस्त को दोपहर सवा 12 बजे प्रधानमंत्री श्री नरेन्द्र मोदी अयोध्या में भगवान श्रीराम के भव्य मंदिर के लिए भूमि पूजन अनुष्ठान करेंगे, इस गौरवमयी अवसर के लिए सज-धज के तैयार है पावन अयोध्या नगरी।।
+
+जय श",No relevant context found.,google/gemini-2.5-flash-lite,with_context,REAL,REAL
+466,hindi,fake,"5 अगस्त को दोपहर सवा 12 बजे प्रधानमंत्री श्री नरेन्द्र मोदी अयोध्या में भगवान श्रीराम के भव्य मंदिर के लिए भूमि पूजन अनुष्ठान करेंगे, इस गौरवमयी अवसर के लिए सज-धज के तैयार है पावन अयोध्या नगरी।।
+
+जय श",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+466,hindi,fake,"5 अगस्त को दोपहर सवा 12 बजे प्रधानमंत्री श्री नरेन्द्र मोदी अयोध्या में भगवान श्रीराम के भव्य मंदिर के लिए भूमि पूजन अनुष्ठान करेंगे, इस गौरवमयी अवसर के लिए सज-धज के तैयार है पावन अयोध्या नगरी।।
+
+जय श",No relevant context found.,deepseek/deepseek-v4-flash,with_context,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE
+466,hindi,fake,"5 अगस्त को दोपहर सवा 12 बजे प्रधानमंत्री श्री नरेन्द्र मोदी अयोध्या में भगवान श्रीराम के भव्य मंदिर के लिए भूमि पूजन अनुष्ठान करेंगे, इस गौरवमयी अवसर के लिए सज-धज के तैयार है पावन अयोध्या नगरी।।
+
+जय श",No relevant context found.,deepseek/deepseek-v4-flash,without_context,REAL,REAL
+466,english,fake,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+466,english,fake,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+466,english,fake,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+466,english,fake,"On August 5, at 12.15 pm, Prime Minister Shri Narendra Modi will perform the Bhoomi Pujan ritual for the grand temple of Lord Shri Ram in Ayodhya. The holy city of Ayodhya is ready for this glorious o",No relevant context found.,deepseek/deepseek-v4-flash,without_context,REAL,REAL
+466,estonian,fake,5. augustil kell 12.15 viib peaminister Shri Narendra Modi läbi Bhoomi Pujani rituaali Lord Shri Rami suurejoonelise templi jaoks Ayodhyas. Püha linn Ayodhya on selleks kuulsusrikkaks sündmuseks valmi,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNSURE,UNPARSEABLE
+466,estonian,fake,5. augustil kell 12.15 viib peaminister Shri Narendra Modi läbi Bhoomi Pujani rituaali Lord Shri Rami suurejoonelise templi jaoks Ayodhyas. Püha linn Ayodhya on selleks kuulsusrikkaks sündmuseks valmi,No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+466,estonian,fake,5. augustil kell 12.15 viib peaminister Shri Narendra Modi läbi Bhoomi Pujani rituaali Lord Shri Rami suurejoonelise templi jaoks Ayodhyas. Püha linn Ayodhya on selleks kuulsusrikkaks sündmuseks valmi,No relevant context found.,deepseek/deepseek-v4-flash,with_context,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE
+466,estonian,fake,5. augustil kell 12.15 viib peaminister Shri Narendra Modi läbi Bhoomi Pujani rituaali Lord Shri Rami suurejoonelise templi jaoks Ayodhyas. Püha linn Ayodhya on selleks kuulsusrikkaks sündmuseks valmi,No relevant context found.,deepseek/deepseek-v4-flash,without_context,FAKE,FAKE
+2550,hindi,fake,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+2550,hindi,fake,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+2550,hindi,fake,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+2550,hindi,fake,"रिपब्लिक पोल नाम के एक नकली ट्विटर अकाउंट अपने विवादास्पद पोल के कारण नेटिज़न्स के गुस्से का शिकार बन रहा है। पत्रकारों सहित कई ट्विटर यूज़र इस अकाउंट को चैनल का आधिकारिक अकाउंट मान रहे हैं।
+
+",No relevant context found.,deepseek/deepseek-v4-flash,without_context,FAKE,FAKE
+2550,english,fake,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+2550,english,fake,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ",No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+2550,english,fake,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+2550,english,fake,"A fake Twitter account named Republic Poll is drawing the ire of netizens due to its controversial poll. Many Twitter users, including journalists, consider this account to be the official account of ",No relevant context found.,deepseek/deepseek-v4-flash,without_context,FAKE,FAKE
+2550,estonian,fake,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+2550,estonian,fake,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+2550,estonian,fake,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+2550,estonian,fake,"Võlts Twitteri konto nimega Republic Poll tõmbab oma vastuolulise küsitluse tõttu netikoijate viha. Paljud Twitteri kasutajad, sealhulgas ajakirjanikud, peavad seda kontot kanali ametlikuks kontoks.",No relevant context found.,deepseek/deepseek-v4-flash,without_context,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE
+4258,hindi,fake,"महिंद्रा ने आलोचकों का ध्यान आकर्षित किया क्योंकि उनके ट्वीट में कहा गया था कि इसे बार-बार इस्तेमाल कर सकते हैं और धोने योग्य मास्क में ""वायरस को कम करने"" की क्षमता थी। ये मास्क लिविंगगार्ड नामक कंपनी",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+4258,hindi,fake,"महिंद्रा ने आलोचकों का ध्यान आकर्षित किया क्योंकि उनके ट्वीट में कहा गया था कि इसे बार-बार इस्तेमाल कर सकते हैं और धोने योग्य मास्क में ""वायरस को कम करने"" की क्षमता थी। ये मास्क लिविंगगार्ड नामक कंपनी",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+4258,hindi,fake,"महिंद्रा ने आलोचकों का ध्यान आकर्षित किया क्योंकि उनके ट्वीट में कहा गया था कि इसे बार-बार इस्तेमाल कर सकते हैं और धोने योग्य मास्क में ""वायरस को कम करने"" की क्षमता थी। ये मास्क लिविंगगार्ड नामक कंपनी",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+4258,hindi,fake,"महिंद्रा ने आलोचकों का ध्यान आकर्षित किया क्योंकि उनके ट्वीट में कहा गया था कि इसे बार-बार इस्तेमाल कर सकते हैं और धोने योग्य मास्क में ""वायरस को कम करने"" की क्षमता थी। ये मास्क लिविंगगार्ड नामक कंपनी",No relevant context found.,deepseek/deepseek-v4-flash,without_context,REAL,REAL
+4258,english,fake,"Mahindra attracted the attention of critics after its tweet said that the reusable and washable mask had the ability to ""reduce the virus"". These masks are being manufactured by a company called Livin",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+4258,english,fake,"Mahindra attracted the attention of critics after its tweet said that the reusable and washable mask had the ability to ""reduce the virus"". These masks are being manufactured by a company called Livin",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+4258,english,fake,"Mahindra attracted the attention of critics after its tweet said that the reusable and washable mask had the ability to ""reduce the virus"". These masks are being manufactured by a company called Livin",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+4258,english,fake,"Mahindra attracted the attention of critics after its tweet said that the reusable and washable mask had the ability to ""reduce the virus"". These masks are being manufactured by a company called Livin",No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+4258,estonian,fake,"Mahindra äratas kriitikute tähelepanu pärast seda, kui selle säuts ütles, et korduvkasutataval ja pestaval maskil on võime ""viirust vähendada"". Neid maske toodab ettevõte nimega LivingGuard, mille juh",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+4258,estonian,fake,"Mahindra äratas kriitikute tähelepanu pärast seda, kui selle säuts ütles, et korduvkasutataval ja pestaval maskil on võime ""viirust vähendada"". Neid maske toodab ettevõte nimega LivingGuard, mille juh",No relevant context found.,google/gemini-2.5-flash-lite,without_context,REAL,REAL
+4258,estonian,fake,"Mahindra äratas kriitikute tähelepanu pärast seda, kui selle säuts ütles, et korduvkasutataval ja pestaval maskil on võime ""viirust vähendada"". Neid maske toodab ettevõte nimega LivingGuard, mille juh",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+4258,estonian,fake,"Mahindra äratas kriitikute tähelepanu pärast seda, kui selle säuts ütles, et korduvkasutataval ja pestaval maskil on võime ""viirust vähendada"". Neid maske toodab ettevõte nimega LivingGuard, mille juh",No relevant context found.,deepseek/deepseek-v4-flash,without_context,REAL,REAL
+4344,hindi,fake,संजय राऊत का आयुर्वेदिक अंडे पर ज्ञान।शिवसेना के ऐसे नेताओं की सोच ने ही आज पार्टी को निम्न स्तर पर पहुंचा दिया।,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+4344,hindi,fake,संजय राऊत का आयुर्वेदिक अंडे पर ज्ञान।शिवसेना के ऐसे नेताओं की सोच ने ही आज पार्टी को निम्न स्तर पर पहुंचा दिया।,No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+4344,hindi,fake,संजय राऊत का आयुर्वेदिक अंडे पर ज्ञान।शिवसेना के ऐसे नेताओं की सोच ने ही आज पार्टी को निम्न स्तर पर पहुंचा दिया।,No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+4344,hindi,fake,संजय राऊत का आयुर्वेदिक अंडे पर ज्ञान।शिवसेना के ऐसे नेताओं की सोच ने ही आज पार्टी को निम्न स्तर पर पहुंचा दिया।,No relevant context found.,deepseek/deepseek-v4-flash,without_context,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE
+4344,english,fake,Sanjay Raut's knowledge on Ayurvedic eggs. The thinking of such Shiv Sena leaders has brought the party to a low level today.,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+4344,english,fake,Sanjay Raut's knowledge on Ayurvedic eggs. The thinking of such Shiv Sena leaders has brought the party to a low level today.,No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+4344,english,fake,Sanjay Raut's knowledge on Ayurvedic eggs. The thinking of such Shiv Sena leaders has brought the party to a low level today.,No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+4344,english,fake,Sanjay Raut's knowledge on Ayurvedic eggs. The thinking of such Shiv Sena leaders has brought the party to a low level today.,No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+4344,estonian,fake,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+4344,estonian,fake,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+4344,estonian,fake,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+4344,estonian,fake,Sanjay Rauti teadmised Ayurveda munadest. Selliste Shiv Sena juhtide mõtlemine on viinud erakonna tänaseks madalale tasemele.,No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+5273,hindi,fake,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+5273,hindi,fake,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।",No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+5273,hindi,fake,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।",No relevant context found.,deepseek/deepseek-v4-flash,with_context,UNCERTAIN,UNCERTAIN
+5273,hindi,fake,"व्हुआन मार्केट। चाइना, #कोरोना वायरस की उत्पत्ति।",No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
+5273,english,fake,"Whuan Market. China, the origin of #coronavirus.",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+5273,english,fake,"Whuan Market. China, the origin of #coronavirus.",No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+5273,english,fake,"Whuan Market. China, the origin of #coronavirus.",No relevant context found.,deepseek/deepseek-v4-flash,with_context,FAKE,FAKE
+5273,english,fake,"Whuan Market. China, the origin of #coronavirus.",No relevant context found.,deepseek/deepseek-v4-flash,without_context,FAKE,FAKE
+5273,estonian,fake,"Whuani turg. Hiina, #koronaviiruse päritolu.",No relevant context found.,google/gemini-2.5-flash-lite,with_context,UNCERTAIN,UNCERTAIN
+5273,estonian,fake,"Whuani turg. Hiina, #koronaviiruse päritolu.",No relevant context found.,google/gemini-2.5-flash-lite,without_context,UNCERTAIN,UNCERTAIN
+5273,estonian,fake,"Whuani turg. Hiina, #koronaviiruse päritolu.",No relevant context found.,deepseek/deepseek-v4-flash,with_context,[API_ERROR: 'NoneType' object has no attribute 'strip'],UNPARSEABLE
+5273,estonian,fake,"Whuani turg. Hiina, #koronaviiruse päritolu.",No relevant context found.,deepseek/deepseek-v4-flash,without_context,UNCERTAIN,UNCERTAIN
