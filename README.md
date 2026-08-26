@@ -19,7 +19,7 @@ Models Tested
 
 All models accessed via the OpenRouter unified API.
 
-### Model	Type	Notes
+## Model	Type	Notes
 google/gemini-2.5-flash-lite	Closed, paid	Strong multilingual coverage
 deepseek/deepseek-v4-flash	Closed, paid	MoE architecture, 13B active parameters
 meta-llama/llama-3.3-70b-instruct:free	Open, free tier	Hit 200 req/day rate limit — results incomplete
