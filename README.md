@@ -15,11 +15,10 @@ Used for: Experiment 6 — 234 cases targeting Estonia were extracted and sample
 Source: Paper | GitHub (crawler only)
 Description: Multilingual COVID-19 fake news dataset across 6 languages with labels verified by Snopes and Poynter. Data files are no longer publicly accessible — only the crawler code remains.
 Status: Replaced by CONSTRAINT 2021 after confirming inaccessibility.
-Models Tested
 
-All models accessed via the OpenRouter unified API.
 
 ## Model	Type	Notes
+All models accessed via the OpenRouter unified API.
 google/gemini-2.5-flash-lite	Closed, paid	Strong multilingual coverage
 deepseek/deepseek-v4-flash	Closed, paid	MoE architecture, 13B active parameters
 meta-llama/llama-3.3-70b-instruct:free	Open, free tier	Hit 200 req/day rate limit — results incomplete
